@@ -7,7 +7,7 @@ Open Source Hardware implementation of a SNES controller
  1. Create a cheap, lagless, non-ghosting SNES controller
  2. Have an easy to solder design
  3. Use modern (Active production) components
- 4. Have 3d printable case, or make pcb compatible with original controller case
+ 4. Have 3d printable controller shell, and/or make pcb compatible with original controller shell
  
  
  ## State of project
