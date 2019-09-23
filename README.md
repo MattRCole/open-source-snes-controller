@@ -4,10 +4,10 @@ Open Source Hardware implementation of a SNES controller
 
 ## Project Goals
 
- 1 Create a cheap, lagless, non-ghosting SNES controller
- 2 Have an easy to solder design
- 3 Use modern (Active production) components
- 4 Have 3d printable case, or make pcb compatible with original controller case
+ 1. Create a cheap, lagless, non-ghosting SNES controller
+ 2. Have an easy to solder design
+ 3. Use modern (Active production) components
+ 4. Have 3d printable case, or make pcb compatible with original controller case
  
  
  ## State of project
