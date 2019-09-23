@@ -25,3 +25,4 @@ Here's the initial parts list for the controller (subject to change!):
  
  Here's a rough logical design:
  
+![initial design](https://raw.githubusercontent.com/MattRCole/open-source-snes-controller/master/img/snes-initial-design.png)
