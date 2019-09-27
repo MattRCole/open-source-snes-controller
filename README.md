@@ -12,7 +12,7 @@ Open Source Hardware implementation of a SNES controller
  
  ## State of project
  
-Parts have been purchased and I'm currently prototyping with some friends, after we have a working proof of concept, I'll begin designing the pcb
+Basic proof of concept has been proven! Here's a link to a short video: [https://youtu.be/-2d5HWsTum8](https://youtu.be/-2d5HWsTum8)
 
 ## Inital parts list and rough designs:
 
